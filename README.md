@@ -6,5 +6,6 @@
  - NAND
  - NOR
  - XOR
- - git XNOR 
+ - XNOR 
+ 
  ![Portas Lógicas](http://pontogpp.com.br/static/353c8c5f0b4382675cabbb810314f2c6/2a4de/portas_logicas.png)
