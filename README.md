@@ -7,4 +7,4 @@
  - NOR
  - XOR
  - git XNOR 
- ![Portas Lógicas](https://www.makerhero.com/wp-content/uploads/2024/08/08-24-O-que-saao-Portas-Loogicas-Tipos-tabela-da-verdade-e-exercicios-Rosana-Guse-capa-blog.jpg.webp)
+ ![Portas Lógicas](http://pontogpp.com.br/static/353c8c5f0b4382675cabbb810314f2c6/2a4de/portas_logicas.png)
